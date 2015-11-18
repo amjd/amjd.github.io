@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hello World... Again.
 layout: post
 ---
